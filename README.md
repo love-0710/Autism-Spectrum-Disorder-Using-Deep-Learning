@@ -29,11 +29,6 @@ The dataset consists of images categorized into two classes: ASD (Autism Spectru
 - `data/`: Placeholder directory for storing dataset files.
 - `models/`: Placeholder directory for saving trained models.
 
-## Clone this Repository
-
-```bash
-git clone https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning
-
 
 ## Usage
 
@@ -51,3 +46,8 @@ This project is licensed under the GPL 3.0 License.
 
 This README provides comprehensive information about the ASD detection project, including details about the project, dataset, repository contents, usage instructions, author information, and licensing details. Adjustments can be made as needed to suit your preferences or additional information.
 
+
+## Clone this Repository
+
+```bash
+git clone https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning
