@@ -34,17 +34,18 @@ The dataset consists of images categorized into two classes: ASD (Autism Spectru
 ```bash
 git clone https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning
 
-Usage
+
+## Usage
 
     Download the dataset from the provided links and place it in the data/ directory.
     Follow the instructions in the documentation provided in the resources/ directory to set up the environment and run the code.
     Experiment with different parameters and configurations to improve the model performance.
 
-Author
+## Author
 
     Love Kumar Yadav
 
-License
+## License
 
 This project is licensed under the GPL 3.0 License.
 
